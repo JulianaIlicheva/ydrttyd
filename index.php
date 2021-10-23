@@ -41,6 +41,7 @@ echo("\n 1 BD: ");
 //var_dump($data);
 
 $name="Yjsg327dh8dsf";
+$name="Yjsg327dh8dsf";
 $try="jkhdho";
 $ends="kljdslj";
 $name1='uyi';
